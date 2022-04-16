@@ -1,4 +1,4 @@
-# vue-test-1
+# vue-test-animeList
 
 ## Project setup
 ```
